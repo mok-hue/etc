@@ -5,7 +5,3 @@
 ### Контейнер для всякой мелочи 
 ## [Крышка]( https://github.com/mok-hue/etc/blob/master/3d%20models/Tall_Container_Bottom.stl ) ![GitHub Logo](/etc/Скриншот 19-05-2020 013331.png)
 [Сам контейнер]( https://github.com/mok-hue/etc/blob/master/3d%20models/Tall_Container_Top.stl ) ![GitHub Logo](/etc/Скриншот 19-05-2020 013027.png)
-### Другой контейнер,он различается по ширине
-
-
-Скриншот 19-05-2020 013331.png
